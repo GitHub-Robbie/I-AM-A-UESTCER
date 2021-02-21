@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <environments default="default">
+        <environment id="default">
+            <transactionManager type="JDBC"></transactionManager>
+            <dataSource type="POOLED">
+                <property name="driver" value="org.postgresql.Driver"/>
+                <property name="url" value="jdbc:postgresql://localhost:5432/GradeDB"/>
+                <property name="username" value="postgres"/>
+                <property name="password" value="37642749YHNcx"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+        <mapper resource="com/yhn/mapper/PeopleMapper.xml"/>
+    </mappers>
+</configuration>

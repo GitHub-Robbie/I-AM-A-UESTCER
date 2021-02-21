@@ -1,0 +1,20 @@
+﻿  modpow.c
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(54): warning C4013: “exit”未定义；假设外部返回 int
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(45): warning C4101: “remider”: 未引用的局部变量
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(270): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(347): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(351): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(359): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(362): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\modpow\modpow.c(382): warning C4013: “system”未定义；假设外部返回 int
+  ModPow.vcxproj -> C:\袁昊男\学习\大二上\信息安全数学基础\实验\BigNum\Debug\ModPow.exe

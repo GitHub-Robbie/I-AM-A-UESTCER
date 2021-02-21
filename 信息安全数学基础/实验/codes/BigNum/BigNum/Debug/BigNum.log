@@ -1,0 +1,5 @@
+﻿  bignum.c
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\bignum\bignum.c(401): warning C4013: “system”未定义；假设外部返回 int
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\bignum\bignum.c(305): warning C4101: “len”: 未引用的局部变量
+c:\袁昊男\学习\大二上\信息安全数学基础\实验\bignum\bignum\bignum.c(305): warning C4101: “i”: 未引用的局部变量
+  BigNum.vcxproj -> C:\袁昊男\学习\大二上\信息安全数学基础\实验\BigNum\Debug\BigNum.exe

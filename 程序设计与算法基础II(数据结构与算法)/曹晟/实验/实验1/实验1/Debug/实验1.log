@@ -1,0 +1,60 @@
+﻿  main.c
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(103): warning C4047: “函数”:“StudentListPtr”与“StudentListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(103): warning C4024: “SList_Create”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(107): warning C4047: “函数”:“StudentListPtr”与“StudentListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(107): warning C4024: “Print_StudentList”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(121): warning C4047: “函数”:“CourseListPtr”与“CourseListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(121): warning C4024: “CList_Create”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(125): warning C4047: “函数”:“CourseListPtr”与“CourseListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(125): warning C4024: “Print_CourseList”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(139): warning C4047: “函数”:“GradeListPtr”与“GradeListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(139): warning C4024: “GList_Create”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(143): warning C4047: “函数”:“GradeListPtr”与“GradeListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(143): warning C4024: “Print_GradeList”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(159): warning C4047: “函数”:“ConnectListPtr”与“ConnectListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(159): warning C4024: “AList_Create”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(162): warning C4047: “函数”:“ConnectListPtr”与“ConnectListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(162): warning C4024: “Print_AllList”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(214): warning C4047: “函数”:“Stack *”与“Stack **”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(214): warning C4024: “Stack_Init”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(216): warning C4047: “函数”:“StackPtr”与“StackPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(216): warning C4024: “Stack_Push”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(216): warning C4047: “函数”:“StudentListPtr”与“StudentListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(216): warning C4024: “Stack_Push”: 形参和实参 2 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(217): warning C4047: “函数”:“StackPtr”与“StackPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(217): warning C4024: “Stack_Pop”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(218): warning C4047: “函数”:“StudentListPtr”与“StudentListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(218): warning C4024: “SList_Create”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(221): warning C4047: “函数”:“StudentListPtr”与“StudentListPtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(221): warning C4024: “Print_StudentList”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(234): warning C4047: “函数”:“QueuePtr”与“QueuePtr *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(234): warning C4024: “Queue_Init”: 形参和实参 1 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(64): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(78): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(91): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(109): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(145): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(165): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(195): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(201): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(223): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\实验1\main.c(238): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  实验1.vcxproj -> C:\袁昊男\学习\大一下\数据结构与算法\曹晟\实验\实验1\Debug\实验1.exe

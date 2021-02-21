@@ -1,0 +1,73 @@
+# 求最高幂次数
+def Times(value):
+    v2str = '{:09b}'.format(value)
+    for i in range(9):
+        if int(v2str[i]):
+            return 9-i
+
+# 模2除法：m为被除数。b为除数，q为商，r为余数
+def Mod2_Div(f, g):
+    n = Times(f)
+    m = Times(g)
+    if n < m:
+        return [0, f]
+    deg = n - m
+    f = f ^ (g << deg)
+    [q, r] = Mod2_Div(f, g)
+    return [(1 << deg)|q, r]
+
+# v3 = v1 - q3 * v2
+def Calculate(v1, q3, v2):
+    value = 0
+    for i in range(32):
+        if(q3 & (1<<i)):
+            value = value ^ (v2<<i)
+    return v1^value
+
+def Mul(a, b):
+    value = 0
+    for i in range(32):
+        if(a & (1<<i)):
+            value = value ^ (b<<i)
+    return value
+
+
+def Euclid(r1, r2, v1=1, v2=0, w1=0, w2=1):
+    if r2 == 0 or r2 == 1:  return w2
+    q3, r3 = Mod2_Div(r1, r2)  # q3(x)=r1(x)|r2(x), r2(x)=r1(x) mod r2(x)
+    v3 = Calculate(v1, q3, v2)  # v3 = v1 - q3 * v2
+    w3 = Calculate(w1, q3, w2)  # w3 = w1 - q3 * w2
+    return Euclid(r2, r3, v2, v3, w2, w3)
+
+def sym2int(sym):
+    power = [sym[i+2] for i in range(len(sym)) if sym[i] == 'x']
+    if '+1' in sym: power.append('0')
+    data = 0
+    for p in power:
+        data = data | (1<<int(p))
+    return data
+
+def int2sym(data):
+    int2str = '{:09b}'.format(data)
+    sym = ''
+    for i in range(9):
+        if int(int2str[i]) == 1:
+            if 8-i:   sym += '+x^%d'%(8-i)
+            else:   sym += '+1'
+    return sym[1:]
+
+if __name__ == '__main__':
+    print('-----多项式乘法测试-----')
+    xstr1 = input('请输入多项式f(x)：')
+    xstr2 = input('请输入多项式g(x)：')
+
+    print('f(x)·g(x) = ', int2sym(Mul(sym2int(xstr1), sym2int(xstr2))))
+
+    print('\n')
+    print('-----多项式求逆测试-----')
+    xstr = input('请输入待求逆多项式f(x)：')
+    print('输入的多项式: ', xstr)
+    print('不可约多项式多项式: ', int2sym(355))
+    print('f(x)的乘法逆元: ', int2sym(Euclid(355, sym2int(xstr))))
+
+

@@ -1,0 +1,10 @@
+[cli](97130) server[127.0.0.1:12345] is connected!
+[echo_rep](97130) c vK LwT 5nTfHcO o t3B mXmT Lt 935tory m 
+[echo_rep](97130) 0Ot 75SS 
+[echo_rep](97130) 7 
+[echo_rep](97130) 1D Y22b0 
+[echo_rep](97130) PeFg zA5VgD4K 
+[echo_rep](97130) idff1 
+[echo_rep](97130) 
+[cli](97130) connfd is closed!
+[cli](97130) parent process is going to exit!

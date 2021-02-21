@@ -1,0 +1,20 @@
+﻿  BiTree.c
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(130): warning C4047: “函数”:“int”与“Node *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(130): warning C4024: “EnterQueue”: 形参和实参 2 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(135): warning C4047: “函数”:“int *”与“Node **”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(135): warning C4024: “Delete_Queue”: 形参和实参 2 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(137): warning C4047: “函数”:“int”与“node *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(137): warning C4024: “EnterQueue”: 形参和实参 2 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(138): warning C4047: “函数”:“int”与“node *”的间接级别不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(138): warning C4024: “EnterQueue”: 形参和实参 2 的类型不同
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(163): warning C4133: “=”: 从“LinkQueueNode *”到“Node *”的类型不兼容
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\bitree.c(178): warning C4133: “=”: 从“Node *”到“LinkQueueNode *”的类型不兼容
+  main.c
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\main.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\main.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+c:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\第一题\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  正在生成代码...
+  第一题.vcxproj -> C:\袁昊男\学习\大一下\数据结构与算法\曹晟\作业\树\树作业\Debug\第一题.exe

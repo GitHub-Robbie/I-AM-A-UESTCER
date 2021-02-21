@@ -1,0 +1,16 @@
+[srv](97110) server[127.0.0.1:12345] is initializing!
+[srv](97110) client[127.0.0.1:44040] is accepted!
+[srv](97110) client[127.0.0.1:44042] is accepted!
+[srv](97110) client[127.0.0.1:44044] is accepted!
+[srv](97110) client[127.0.0.1:44046] is accepted!
+[cli](97110) SIGCHLD is coming!
+[cli](97110) client child(97135) terminated!.
+[cli](97110) SIGCHLD is coming!
+[cli](97110) client child(97138) terminated!.
+[cli](97110) client child(97139) terminated!.
+[cli](97110) SIGCHLD is coming!
+[cli](97110) client child(97140) terminated!.
+[cli](97110) SIGCHLD is coming!
+[srv](97110) SIGINT is coming!
+[srv](97110) listenfd is closed!
+[srv](97110) parent process is going to exit!

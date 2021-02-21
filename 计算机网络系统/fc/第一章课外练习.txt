@@ -1,0 +1,21 @@
+第一章课外练习：
+
+一、教材后面的习题
+P46: R11.18.19
+P48 习题 5 6 7 10 11
+p50 习题 31 33
+---------------------------------
+二、学习netstat命令的使用
+netstat命令使用参考（亦可自行百度）：
+windows下：
+https://www.iteye.com/blog/wsmajunfeng-1222526
+Linux下：
+https://jingyan.baidu.com/article/c910274bb7245acd361d2d3f.html
+---------------------------------
+三、初步学会wireshark的使用
+wireshark下载地址：
+https://www.wireshark.org/download.html
+教程：
+https://www.cnblogs.com/acker-ploy/p/11944677.html
+
+注：很多教程是针对1.X版的，如今的wireshark已经到3.X 版，操作其实没有本质变化，但界面web化了，所以大家在看教程时注意灵活使用。

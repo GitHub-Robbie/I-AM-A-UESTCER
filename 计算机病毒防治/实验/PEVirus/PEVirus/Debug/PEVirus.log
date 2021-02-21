@@ -1,0 +1,32 @@
+﻿  hello_world.cpp
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,28): error C4839: 将类 "type_info" 作为可变参数函数的参数的非标准用法
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,28): message : 不会调用构造函数和析构函数；该类的位副本将作为参数进行传递
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(69,7): message : 参见“type_info”的声明
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,1): error C2280: “type_info::type_info(const type_info &)”: 尝试引用已删除的函数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(73): message : 参见“type_info::type_info”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(73,5): message : “type_info::type_info(const type_info &)”: 已隐式删除函数
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const type_info”
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(25,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(66,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(82,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(105,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(126,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(150,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(623,18): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\90389\Desktop\PE-learning-master\PE learning\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,28): error C4839: 将类 "type_info" 作为可变参数函数的参数的非标准用法
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,28): message : 不会调用构造函数和析构函数；该类的位副本将作为参数进行传递
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(69,7): message : 参见“type_info”的声明
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,1): error C2280: “type_info::type_info(const type_info &)”: 尝试引用已删除的函数
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(73): message : 参见“type_info::type_info”的声明
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_typeinfo.h(73,5): message : “type_info::type_info(const type_info &)”: 已隐式删除函数
+C:\Users\90389\Desktop\PE-learning-master\PE learning\Header.h(52,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“const type_info”
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(25,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(66,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(82,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(105,8): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(126,5): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(150,11): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\90389\Desktop\PE-learning-master\PE learning\tool.h(623,18): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...

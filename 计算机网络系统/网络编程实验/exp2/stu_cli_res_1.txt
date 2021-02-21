@@ -1,0 +1,11 @@
+[cli](97131) child process 1 is created!
+[cli](97131) server[127.0.0.1:12345] is connected!
+[echo_rep](97131) 39Z7 6ryKiZ 1 l2zzJM 
+[echo_rep](97131) WBKzp1r O EcE9v 
+[echo_rep](97131) l0E hU0eI TmYeH2V Wetfa s6O01f4 
+[echo_rep](97131) ot6mas 
+[echo_rep](97131) pugzplX aul3w n SAGJ2UD 
+[echo_rep](97131) Ae77H1YZ qnAA7e wi G o vBj 
+[echo_rep](97131) 
+[cli](97131) connfd is closed!
+[cli](97131) child process is going to exit!

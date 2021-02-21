@@ -1,0 +1,12 @@
+[srv](97138) child process is created!
+[srv](97138) listenfd is closed!
+[echo_rqt](97138) AWA H5x38 
+[echo_rqt](97138) 84B29P M HSzgH 351ESc5 2emTO yBQBLjb u9 08lIh3AL 
+[echo_rqt](97138) 3u0 0hESJjX f6JZyHD g45FMLX 
+[echo_rqt](97138) O2N265zo XAbC9Y0 5O7oJ w d0biZ NaG5t0 ZqEcPn 
+[echo_rqt](97138) 7aj5mF 05DS r 7UT 
+[echo_rqt](97138) bDvL KR1Ic5RS n2rb g7p 6A 1U2 5oNVg s8tpj 
+[echo_rqt](97138) 
+[srv](97138) res file rename done!
+[srv](97138) connfd is closed!
+[srv](97138) child process is going to exit!
